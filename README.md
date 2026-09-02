@@ -81,8 +81,8 @@ Then visit `http://localhost:8000` in your browser.
 ### Update Contact Information
 Edit `contact.html` - Replace placeholder contact details:
 ```html
-<p><a href="mailto:bashir.atiku@example.com">bashir.atiku@example.com</a></p>
-<p><a href="tel:+2348XXXXXXXXX">+234 8XX XXXX XXX</a></p>
+<p><a href="mailto:bashiratiku5@gmail.com">bashiratiku5@gmail.com</a></p>
+<p><a href="tel:+2347062612102">+234 706 2612 102 </a></p>
 ```
 
 ### Update Social Media Links
