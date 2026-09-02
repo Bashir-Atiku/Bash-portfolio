@@ -193,9 +193,9 @@ Potential additions to make it even better:
 ## 📞 Contact & Support
 
 For updates or customizations, refer to the contact page or reach out through:
-- Email: bashir.atiku@example.com
+- Email: bashiratiku5@gmail.com
 - LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- GitHub: [@bashir-atiku]
 
 ## 📄 License
 
@@ -203,6 +203,5 @@ This portfolio template is free to use and modify for personal use.
 
 ---
 
-**Created with ❤️ for Bashir Atiku's Portfolio**
 
 *Computer Engineering | Control Engineering | Technology | Innovation*
