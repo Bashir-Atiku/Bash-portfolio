@@ -70,9 +70,9 @@ If you prefer a different CV filename:
 2. Open `about.html` in a text editor
 3. Find this line (around line 172):
    ```html
-   <a href="assets/Bashir_Atiku_CV.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
+   <a href="Bashir_Atiku_CV.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
    ```
-4. Replace `assets/Bashir_Atiku_CV.pdf` with your filename
+4. Replace `Bashir_Atiku_CV.pdf` with your filename
 5. Save the file
 
 ## CV Best Practices
